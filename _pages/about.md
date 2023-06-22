@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Product and IT Professional with experience in content marketing, risk and regulation, and organized labor
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>harpereatkins@gmail.com/p>
+    <p>Portland, OR, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
