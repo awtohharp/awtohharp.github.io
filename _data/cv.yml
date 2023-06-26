@@ -4,4 +4,68 @@
     - title: A+ Certification
       institution: CompTIA
       year: 2022
-      description: This is a test
+      description: The gold standard for information technology specialists, the A+ certification attests to proficiency in a range of technical support skills
+    - title: Able Bodied Seafarer, Deck
+      institution: US Coast Guard
+      year: 2015
+      description: A certification for work as a deckhand on commercial seagoing ships; prepares candidates for duties as a helmsman, watchstander, and caretaker of a ship
+    - title: BA
+      institution: Fairhaven College, Western Washington University
+      year: 2012
+      description: Awarded full-ride scholarship to University of Minnesota Law; admitted to WWU’s Fairhaven College, an interdisciplinary program emphasizing independent study and self-designed curriculum.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Product Analyst
+      institution: PwC Digital (Contract)
+      year: 2022 - 2023
+      description:
+        - Worked closely with the Product team, internal stakeholders, and executives to write user stories, define requirements, and prioritize roadmap for software development for a global risk assessment platform specializing in data privacy.
+        - Designed and implemented new workflows for a regulatory source monitoring process.
+          - Developed a solution to ingest web page monitoring data into a spreadsheet to automate manual processes and reduce time spent on source review by 80%.
+          - Wrote user stories to migrate a spreadsheet-based solution into our web application.
+          - Consolidated news feeds into a single source for in-app notifications about regulatory change.
+        - Produced company profiles, competitive analyses, and news digests for the Product team to inform build/buy analysis in the data privacy and GRC space.
+        - Owned internal communications with key stakeholders and SMEs, including sprint/release notes and the creation of an IT help desk in Teams to review user-identified bugs and provide workarounds.
+        - Created reports using SQL and Pendo to analyze user behavior and enable data-driven feature development.
+
+    - title: IT Assistant
+      institution: Central District Health (Temp)
+      location: Boise, ID
+      year: 2021 - 2022
+      description:
+        - Determined requirements for and developed a Microsoft Teams-based solution for grants/contracts/agreement management.
+          - Product provides unified platform for conversation retention and auditing; storing communications with external parties; centralizing records; and streamlining a tedious documentation process.
+          - Expected to eliminate tens of thousands of paper prints annually and reduce document routing times from hours to minutes.
+        - Worked with users to develop video and text-based documentation; conducted in-person trainings/feedback seminars with stakeholders.
+
+    - title: Owner
+      institution: Broken Wheel Creative
+      location: Boise & Portland
+      year: 2017 - 2022
+      description:
+        - Led effort to overhaul Diggio.com, the website of a Texas-based internet service provider.
+          - Provided a strategy and sales funnel, supported by keyword research, to aid in an exit from one market (managed services) to another (internet bonding).
+          - Developed web copy and layout for 19 pages addressing different markets (laypeople, IT administrators, managed service providers, resellers).
+        - Authored online articles that helped establish QRFS.com as an industry-leading, highly-trafficked resource for fire and building code, fire protection.
+          - Overall traffic tripled (to >1.3M sessions each year), increasing visits to sales pages roughly 50%.
+        - Conducted market and user research with SEMRush, website heat maps, Google Analytics.
+        - Designed, installed, and supported a virtual classroom for the Independent Electrical Contractors of Idaho.
+
+- title: Skills
+  type: list
+  contents:
+    - Experience using digital tools on organizing campaigns; knowledge of NGP VAN.
+    - Some experience with MailChimp, ActBlue, Power Automate/Zapier, Eventbrite.
+    - Have utilized HTTP requests and RESTful APIs (e.g., Adobe Sign API) with OData queries to automate tasks similar to those made possible by the Action Builder API.
+    - Has developed with and frequently used WordPress and Magento; managed small Facebook and Google Ads campaigns; automated with Zapier and Power Automate; developed games and utilities with C# and JS.
+    - Knowledge of HTML/CSS/jQuery/SQL
+    - Usage of SQL includes analysis for product development (2022-2023) and the creation of a self-hosted SQL server (2023); HTML and CSS utilized alongside WordPress and Magento.
+    - Written communication skills honed as a freelance content marketer on complex topics (2017-2022) and research on regulatory software (2022-2023), as well as writing newsletters and speeches for two (pro-union) Idaho politicians.
+    - Acted as a significant contributor or lead in the following
+      - Product/market analysis for regulatory software (2023)
+      - Automation solutions for local government (2022)
+      - Website redesign for a Texas-based ISP (2022)
+      - Video game design (2020)
+    - Familiarity with the labor movement; a degree focused on labor law and labor issues. Union employers include the Idaho AFL-CIO (communications specialist, 2013) and Seafarers’ International Union (deckhand, 2013-2014). Some knowledge of current affairs and recent projects (attempts to create a current database of unionized roles in the US).
+
