@@ -4,5 +4,9 @@
     - title: A+ Certification
       institution: CompTIA
       year: 2022
+<<<<<<< HEAD
       description:
         - The gold standard for information technology specialists, the A+ certification attests to proficiency in a range of technical support skills
+=======
+      description: This is a test
+>>>>>>> a05358e
