@@ -7,15 +7,15 @@
       description:
         - The gold standard for information technology specialists, the A+ certification attests to proficiency in a range of technical support skills
     - title: Able Bodied Seafarer, Deck
-          institution: US Coast Guard
-          year: 2015
-          description:
-            - A certification for work as a deckhand on commercial seagoing ships; prepares candidates for duties as a helmsman, watchstander, and caretaker of a ship
+      institution: US Coast Guard
+      year: 2015
+      description:
+      - A certification for work as a deckhand on commercial seagoing ships; prepares candidates for duties as a helmsman, watchstander, and caretaker of a ship
     - title: BA
-          institution: Fairhaven College, Western Washington University
-          year: 2012
-          description:
-            - Awarded full-ride scholarship to University of Minnesota Law; admitted to WWU’s Fairhaven College, an interdisciplinary program emphasizing independent study and self-designed curriculum.
+      institution: Fairhaven College, Western Washington University
+      year: 2012
+      description:
+      - Awarded full-ride scholarship to University of Minnesota Law; admitted to WWU’s Fairhaven College, an interdisciplinary program emphasizing independent study and self-designed curriculum.
 - title: Experience
   type: time_table
   contents:
@@ -66,7 +66,7 @@
     - Knowledge of HTML/CSS/jQuery/SQL
     - Usage of SQL includes analysis for product development (2022-2023) and the creation of a self-hosted SQL server (2023); HTML and CSS utilized alongside WordPress and Magento.
     - Written communication skills honed as a freelance content marketer on complex topics (2017-2022) and research on regulatory software (2022-2023), as well as writing newsletters and speeches for two (pro-union) Idaho politicians.
-    - Acted as a significant contributor or lead in the following:
+    - Acted as a significant contributor or lead in the following
       - Product/market analysis for regulatory software (2023)
       - Automation solutions for local government (2022)
       - Website redesign for a Texas-based ISP (2022)
